@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #171a21;
+    color: #ffffff;
+}
+#aligner {
+    padding: 6%;
+}
+ul li a {
+    color: white;
+}
+a {
+    color: white;
+    margin: 10px;
+    background-color: #001167;
+}
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+}
+.received {
+    text-align: end;
+}
+.message {
+    background-color: #1f2b69;
+}
+h1 {
+    text-align: center;
+    padding: 45px;
+    background-color: #4b69ff;
+    border-radius: 30%;
+    margin-bottom: 80px;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ffffff;
+    background-color: #171a21;
+    color: #ffffff;
+}
+
+button {
+    padding: 10px 20px;
+    border: 1px solid #ffffff;
+    background-color: #4b69ff;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #5c7cfa;
+}
